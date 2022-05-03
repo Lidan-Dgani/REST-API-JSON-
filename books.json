@@ -1,0 +1,82 @@
+{
+   "books":{
+
+          "history":[
+
+                    {
+                      "autor":"יובל נח הררי",
+                      "bookName":"קיצור תולדות האנושות מהדורה מחודשת",
+                      "price":" ₪ 79.5 ",
+                      "gender":"היסטוריה",
+                      "inStock": true
+                    },
+                    {
+                      "autor":"ריד אנה",
+                      "bookName":"לנינגרד",
+                      "price":" ₪ 88.2 ",
+                      "gender":"היסטוריה",
+                      "inStock": true
+                    },
+
+                    {
+                      "autor":"ארצי בראון",
+                      "bookName":"עלייתו ונפילתו של הקומוניזם",
+                      "price":" ₪ 99 ",
+                      "gender":"היסטוריה",
+                      "inStock": true
+                    }        
+          ],
+          
+          "business":[
+
+                    {
+                      "autor":"אורי כץ",
+                      "bookName":"כסף כחול לבן",
+                      "price":" ₪ 73.5 ",
+                      "gender":"עסקים ניהול ושיווק",
+                      "inStock": true
+                    },
+
+                    {
+                      "autor":"אבי פרץ ",
+                      "bookName":"סודות ההצלחה של מנכלים ישראלים",
+                      "price":" ₪ 100 ",
+                      "gender":"עסקים ניהול ושיווק",
+                      "inStock": true
+                    },  
+                    {
+                      "autor":"גון בוגל",
+                      "bookName":"המדריך למשקיע המתחיל",
+                      "price":" ₪ 80 ",
+                      "gender":"עסקים ניהול ושיווק",
+                      "inStock": true
+                    }  
+          ],
+
+          "Psychology":[
+                    
+                   {
+                    "autor":"ויקטור פראנקל",
+                    "bookName":"האדם מחפש משמעות מהדורה מחודש",
+                    "price":" ₪ 75 ",
+                    "gender":"פסיכולוגיה",
+                    "inStock": true
+                   }, 
+                   {
+                    "autor":"אליס רוב",
+                    "bookName":"למה חולמים",
+                    "price":" ₪ 74 ",
+                    "gender":"פסיכולוגיה",
+                    "inStock": true
+                   },
+                   {
+                    "autor":"רובינס אנטוני ",
+                    "bookName":"להעיר את הענק שבפנים",
+                    "price":" ₪ 80 ",
+                    "gender":"פסיכולוגיה",
+                    "inStock": true
+                   }
+          ]
+
+   }
+}
